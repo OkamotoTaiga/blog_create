@@ -13,3 +13,7 @@ create_dic.py:テキストから辞書を作成するためのコード
 create_sentense.py:文章生成するコード
 
 markov.py:マルコフ連鎖の辞書を作成するための関数のコード
+
+tweet_fav.py:keywordを含むツイートを取得し、いいねします。
+
+tweet.py:マルコフ連鎖の辞書を用いて文章生成したものをツイートします。
