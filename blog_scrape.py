@@ -26,4 +26,3 @@ for page in range(46):
             #ファイルへの書き込み
             with open(fname,'a',encoding='utf-8') as f:
                 f.write(i.string)
-    break
